@@ -1,0 +1,26 @@
+TODO:
+    - Logging
+        - To file
+        - To webhook? discord etc?
+    - Fingerprint well-known bots
+    - Support BungeeCord and Spigot (including Spigot forks), not just Velocity
+    - Data visualizations
+    - Config
+        - Fingerprinting config
+            - IP
+            - port
+            - idk? version maybe
+        - Logging config
+            - Format
+            - PLEASE FOR THE LOVE OF GOD ADD DATES TO THE LOGS
+            - Log fingeprints that match certain patterns in fingerprinting config
+            - webhook config
+                - multiple webhooks!
+            - console logging config
+                - Format
+                - Dates :D
+                - Maybe a counter?
+                - Timezones
+        - Version spoofing
+            - different spoofs based off fingerprints
+    - Player spoofing
